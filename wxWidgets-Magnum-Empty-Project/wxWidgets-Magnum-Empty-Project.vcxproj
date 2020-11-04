@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{1E252F5F-ACCB-476D-BB9A-BD34F7D0127D}</ProjectGuid>
-    <RootNamespace>wxWidgetsMagnumTest</RootNamespace>
+    <RootNamespace>wxWidgetsMagnumEmptyProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
